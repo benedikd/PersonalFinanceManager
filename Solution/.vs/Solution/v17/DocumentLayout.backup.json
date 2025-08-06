@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP EliteBook 845 G8\\Desktop\\C#\\PersonalFinanceManager\\Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA8788E8-5089-45E6-86A3-FD484E3C4027}|Solution\\Solution.csproj|c:\\users\\hp elitebook 845 g8\\desktop\\c#\\personalfinancemanager\\solution\\solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA8788E8-5089-45E6-86A3-FD484E3C4027}|Solution\\Solution.csproj|solutionrelative:solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP EliteBook 845 G8\\Desktop\\C#\\PersonalFinanceManager\\Solution\\Solution\\Program.cs",
+              "RelativeDocumentMoniker": "Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\HP EliteBook 845 G8\\Desktop\\C#\\PersonalFinanceManager\\Solution\\Solution\\Program.cs",
+              "RelativeToolTip": "Solution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:19:25.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

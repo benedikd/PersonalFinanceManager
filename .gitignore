@@ -1,1 +1,8 @@
 Solution/.vs/
+.vs/
+*.suo
+*.user
+*.cache
+*.db
+[Oo]bj/
+[Bb]in/
